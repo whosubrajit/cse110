@@ -1,0 +1,19 @@
+//TASK 1
+
+To write variable names, we must follow some conditions to avoid errors in the java code.
+The conditions are as follows:-
+i. Must begin with letters (A-Z, a-z), dollar sign ($) or underscore ( _ ). 
+ii. Can not start with numbers or special characters.
+iii. Can have numbers except at the start (0-9).
+
+a. hungry - It's valid.
+b. 2AB - It's invalid for having a number at the start. 
+c. 312.2 - It's invalid for having a number at the start. 
+d. MOBILE - It's valid.
+e. “Ans” - It's invalid because only $ and _ signs are valid at the start.
+f. $30 - It's valid.
+g. Yes/No - It's invalid because only $ and _ signs are allowed as special characters.
+h. student-id - It's invalid because only $ and _ signs are allowed as special characters.
+i. A+3 - It's invalid because only $ and _ signs are allowed as special characters.
+j. ‘X’ - It's invalid because only $ and _ signs are valid at the start.
+k. return - It's invalid because it's a JAVA reserved keyword.
