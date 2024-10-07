@@ -1,6 +1,6 @@
 //TASK 2 (2.3)
 
- public class test23 {
+ public class test2c {
     public static void main(String[] args) {
                 int x = 50; // Declaring the integer value
                 int y = 60; // Declaring the second integer
