@@ -1,6 +1,6 @@
 //TASK 2 (2.5)
 
-public class test25 {
+public class test2e {
     public static void main(String[] args) {
                 double x = 50.10; // Declaring the integer value in double
                 int y = 60; // Declaring the second value in integer
