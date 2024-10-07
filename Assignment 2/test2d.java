@@ -1,6 +1,6 @@
 //TASK 2 (2.4)
 
-public class test24 {
+public class test2d {
     public static void main(String[] args) {
                 double x = 50.10; // Declaring the integer value in double
                 double y = 60.20; // Declaring the second integer in double
