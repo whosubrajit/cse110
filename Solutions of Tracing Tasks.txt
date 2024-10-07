@@ -1,0 +1,7 @@
+Regarding the solutions of Tracing tasks :
+
+Hey fellow coder,
+Hope this txt file finds you well. This is to let you know, I haven't added any solutions of Tracing Tasks as I didn't click pictures while submitting those.
+I believe you can solve those using DRJAVA and do the calculation by yourself.
+
+Best of luck, Happy coding.
