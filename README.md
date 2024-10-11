@@ -10,7 +10,6 @@ Happy Coding.
 
 GG,
 Subrajit
-CSE, BRAC University.
 
 In case y'all need to contact : 
 Mail : subraajit@gmail.com
